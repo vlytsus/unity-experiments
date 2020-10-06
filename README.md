@@ -1,2 +1,2 @@
-# unity-experiments
-Bunch of projects to experiment with Unity
+# BoatSim
+Experimental Project to setup buoyancy and water forces
